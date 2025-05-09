@@ -1,7 +1,3 @@
-Here’s a clean, professional, and visually engaging **README** for your project titled:
-
----
-
 # 📈 Understanding Linear Regression: An Ages and Heights Case Study
 
 Welcome to this beginner-friendly machine learning project! This repository walks you through **Simple Linear Regression** using a real-world-inspired dataset of **Ages** and **Heights**.
