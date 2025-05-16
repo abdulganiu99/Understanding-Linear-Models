@@ -65,6 +65,8 @@ It’s ideal for demonstrating core regression concepts without distractions.
   * **Intercept** (`model.intercept_`)
   * **Slope** (`model.coef_`)
 * Understand what the model is *really* saying
+  * the intercept tells us the baseline value of y whenn x=0
+  * the slope tells us that: fo each unit increase in x the model predicts that y will go up 1.98. (for every year added to an individuals age, their height is predicted to increases by 1.98 inches/feet)
 
 ### 5. 🔍 Prediction & Visualization
 
